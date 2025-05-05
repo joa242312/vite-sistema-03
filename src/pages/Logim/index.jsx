@@ -8,7 +8,7 @@ export default function LoginPage(){
             <div className="w-[40%] h-full flex items-center justify-center">
                  {/* <Link to="/Cadastro" >Casdastrar 1</Link>  */}
                 {/* <button onClick={() => navigate("/cadastro")}>Casdastrar 2</button> */}
-                <button onClick={() => window.location.href = "/Cadastro"}>Casdastrar</button>
+                <button onClick={() => window.location.href = "/Cadastro"}>Casdastrar c </button>
             </div>
             <div className="w-[60%] h-full bg-[#6262eb] flex flex-col items-center justify-center rounded-lg" >
                 <img  width={600} src={animada} alt="imagem animada"/>
